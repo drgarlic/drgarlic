@@ -1,4 +1,4 @@
-## Hi there 👋
+Building [Satonomics](https://github.com/satonomics-org/satonomics)
 
 <!--
 **drgarlic/drgarlic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
